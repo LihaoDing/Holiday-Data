@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="holidays.model.clientserver.FacadeTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2021-06-17T08:23:11" hostname="DESKTOP-EGK37PM" time="0.518">
+  <properties/>
+  <testcase name="checkLotsOfHolidayTestFalse" classname="holidays.model.clientserver.FacadeTest" time="0.518"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
